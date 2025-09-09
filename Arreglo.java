@@ -1,3 +1,4 @@
+/**Samuel Rincon Rodirguez y Marco rodriguez **/ 
 import java.util.Scanner;
 
 public class Arreglo {
